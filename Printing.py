@@ -1,0 +1,25 @@
+print("Don't Rush Me, Please, by Barbara Vance")
+print("I am a snail")
+print("Don't rush me, please.")
+print("I'm heading for")
+print("Those cherry trees.")
+
+print("I have no place")
+print("I have to be,")
+print("No pressing thing")
+print("I have to see.")
+
+print("I like this speed;")
+print("I like being slow;")
+print("IT gives me time")
+print("To get to know")
+
+print("All the flowers")
+print("That I pass,")
+print("Every blade")
+print("Of every grass")
+
+print("I am a snail;")
+print("This is my way.")
+print("Don't rush me, please.")
+print("We've got all day.")
